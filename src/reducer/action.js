@@ -1,0 +1,8 @@
+export const TOGGLE_ERROR = 'TOGGLE_ERROR'
+export const CHECK_REQUESTS ="CHECK_REQUESTS"
+export const HANDLE_CHANGE = 'HANDLE_CHANGE'
+export const IS_LOADING = 'IS_LOADING'
+export const SET_USER = 'SET_USER'
+export const TOGGLE_LOADING = 'TOGGLE_LOADING'
+export const SET_FOLLOWERS = 'SET_FOLLOWERS'
+export const SET_REPOS='SET_REPOS'
